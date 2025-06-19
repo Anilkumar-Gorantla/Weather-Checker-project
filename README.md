@@ -32,7 +32,7 @@ echo "requests" > requirements.txt
 git add requirements.txt
 git commit -m "Add requirements.txt with requests dependency"
 7. Connect to Remote Repo (Optional)
-git remote add origin git@github.com:yourusername/weather-checker.git
+git remote add origin git@github.com:Anilkumar-Gorantla/weather-checker.git
 git branch -M main
 git push -u origin main
 
